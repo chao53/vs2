@@ -1,0 +1,5 @@
+﻿  ReaderWriter.cpp
+  读者写者问题.cpp
+E:\save hehe\vs2\ReaderWriterProblem\ReaderWriterProblem\读者写者问题.cpp(24,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  ReaderWriterProblem.vcxproj -> E:\save hehe\vs2\ReaderWriterProblem\Debug\ReaderWriterProblem.exe

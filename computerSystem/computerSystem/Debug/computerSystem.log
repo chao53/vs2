@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\save hehe\vs2\computerSystem\computerSystem\源.cpp(492,13): warning C4244: “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  computerSystem.vcxproj -> E:\save hehe\vs2\computerSystem\Debug\computerSystem.exe
